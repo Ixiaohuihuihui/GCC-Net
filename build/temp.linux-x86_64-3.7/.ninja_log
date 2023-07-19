@@ -1,0 +1,4 @@
+# ninja log v5
+0	11223	1656148219972460711	/home/dailh/Project/mmdetection-master/build/temp.linux-x86_64-3.7/mmdet/ops/chamfer_2d/src/chamfer_2d.o	5cd2be9c9caec088
+0	22263	1656148231008359902	/home/dailh/Project/mmdetection-master/build/temp.linux-x86_64-3.7/mmdet/ops/chamfer_2d/src/chamfer_cuda.o	ecddc6ad2dea12ee
+3	18123	1669215754835186876	/home/dailh/Project/mmdetection-master/build/temp.linux-x86_64-3.7/mmdet/ops/chamfer_2d/src/chamfer_2d.o	2e737de13ba613d1
