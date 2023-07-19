@@ -39,8 +39,8 @@ For main results, I have provided the currently trained weight file, which can b
 CUDA_VISIBLE_DEVICES=2 python tools/test.py configs/autoassign/autoassign_r50_fpn_8x2_3x_gcc_duo.py weights/gcc_net_epoch_36.pth --eval bbox
 ```
 ### Some Results
-<img width="1021" alt="image" src="https://github.com/Ixiaohuihuihui/GCC-Net/assets/26215859/e590c8ca-1e89-4bcd-9ea2-28c89081b6d0">
 <img width="917" alt="image" src="https://github.com/Ixiaohuihuihui/GCC-Net/assets/26215859/03257154-4ce3-49a4-99d5-ac7972353381">
+<img width="976" alt="image" src="https://github.com/Ixiaohuihuihui/GCC-Net/assets/26215859/664f8989-0f52-4f26-bd25-db333ea9bb63">
 
 ## Installation
 
@@ -49,10 +49,6 @@ Please refer to [install.md](docs/en/install.md) for installation guide.
 ## Get Started
 
 Please see [get_started.md](docs/en/get_started.md) for the basic usage of MMRotate.
-
-## Data Preparation
-
-Please refer to [data_preparation.md](tools/data/README.md) to prepare the data.
 
 ## Acknowledgement
 
