@@ -1,4 +1,5 @@
 ## ✨✨✨✨✨✨✨✨NEWS✨✨✨✨✨✨✨✨
+Our paper has been published in Pattern Recognition.
 1. For future researchers to develop better algorithms in the field of underwater object detection, we upload all the detection results, the download link is https://pan.baidu.com/s/1UMQx1qjoSZ9X8d_EGnE1rQ （Code: adrh). We plot the ground truth and detection results on one image. From these test results, you can understand the advantages and weaknesses of our method. Welcome New Work on UOD!
 2. We upload the test model of the proposed method, you can reproduce the results of our paper. The download link is https://pan.baidu.com/s/1avBWJJm2sTLPoz9tl0eKWw (Code: aert).
 
