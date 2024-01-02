@@ -53,7 +53,7 @@ Please refer to [install.md](docs/en/install.md) for installation guide.
 
 ## Get Started
 
-Please see [get_started.md](docs/en/get_started.md) for the basic usage of MMRotate.
+Please see [get_started.md](docs/en/get_started.md) for the basic usage of MMDetection.
 
 ## Acknowledgement
 
